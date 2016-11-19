@@ -1,0 +1,2 @@
+vector pos = {0, 0, 0};
+addpoint(geoself(), pos);
