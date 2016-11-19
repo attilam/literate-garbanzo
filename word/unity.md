@@ -36,7 +36,8 @@ is_draft: true
 - avoid the use of `Update()` if you can. use coroutines, or events, or other solutions
 - use the profiler!
 - You can make icons for your custom ScriptableObjects: put "ClassName Icon.png" in a folder called Gizmos
-- use the default keyword to have Vecotr3, etc params as defaults  e.g. `void Thing(Vector2 pos = default(Vector3)) { }`
+- use the default keyword to have Vecotr3, etc params as defaults  
+e.g. `void Thing(Vector2 pos = default(Vector3)) { }`
 
 ### mix editor code into component's file
 
