@@ -92,7 +92,5 @@ public class QuickAndDirty : MonoBehaviour {
 
 ## Articles and Videos
 
-http://www.gamasutra.com/blogs/SarahHerzog/20151125/260053/Creating_an_Animating_Loading_Screen_in_Unity_5.php
-
-realistic set of stacked pile of objects
-https://www.youtube.com/watch?v=PJBPCnuaqIo
+- http://www.gamasutra.com/blogs/SarahHerzog/20151125/260053/Creating_an_Animating_Loading_Screen_in_Unity_5.php
+- realistic set of stacked pile of objects https://www.youtube.com/watch?v=PJBPCnuaqIo
