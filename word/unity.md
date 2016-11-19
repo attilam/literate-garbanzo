@@ -8,22 +8,22 @@ is_draft: true
 
 ## Useful Keyboard Shortcuts
 
-`Z` - Pivot mode toggle (Pivot/Center)<br>
-`X` - Rotation pivot toggle (Global/Local)<br>
+`Z` - Pivot mode toggle (Pivot/Center)  
+`X` - Rotation pivot toggle (Global/Local)  
 
 ## Alignment and Snapping
 
 - Edit-> Snap Settings menu to change snapping
 
-`CMD+LMB Drag` - Transform with snapping<br>
-`CMD+Shift+LMB Drag` - Transform: snap to normal, Rotate: look at<br>
+`CMD+LMB Drag` - Transform with snapping  
+`CMD+Shift+LMB Drag` - Transform: snap to normal, Rotate: look at  
 
-`CMD+Alt+F` - Move object to view<br>
-`CMD+Shift+F` - Align object to view<br>
+`CMD+Alt+F` - Move object to view  
+`CMD+Shift+F` - Align object to view  
 
-`V` - held when Transform tool is active: snap to vertex<br>
+`V` - held when Transform tool is active: snap to vertex  
 
-`FF` or `Shift+F` - lock camera to GameObject<br>
+`FF` or `Shift+F` - lock camera to GameObject  
 
 ## Misc
 
@@ -36,7 +36,7 @@ is_draft: true
 - avoid the use of `Update()` if you can. use coroutines, or events, or other solutions
 - use the profiler!
 - You can make icons for your custom ScriptableObjects: put "ClassName Icon.png" in a folder called Gizmos
-- use the default keyword to have Vecotr3, etc params as defaults<br>e.g. `void Thing(Vector2 pos = default(Vector3)) { }`
+- use the default keyword to have Vecotr3, etc params as defaults  e.g. `void Thing(Vector2 pos = default(Vector3)) { }`
 
 ### mix editor code into component's file
 
